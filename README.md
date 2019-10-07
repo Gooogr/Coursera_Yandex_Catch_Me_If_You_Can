@@ -4,7 +4,7 @@
 
 Задача проекта — по последовательности из нескольких веб-сайтов, посещенных подряд одним и тем же человеком, идентифицировать этого человека. 
 
-[Kaggle Leaderboard](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/leaderboard): Grigoriy Gusarov, Score = ___
+[Kaggle Leaderboard](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/leaderboard): Grigoriy Gusarov, Score = 0.95129
 
 **Порядок выполенения проекта:**
 
