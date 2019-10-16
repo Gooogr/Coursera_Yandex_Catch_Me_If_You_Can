@@ -4,7 +4,7 @@
 
 Задача проекта — по последовательности из нескольких веб-сайтов, посещенных подряд одним и тем же человеком, идентифицировать этого человека. 
 
-[Kaggle Leaderboard](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/leaderboard): Grigoriy Gusarov, Score = ___
+[Kaggle Leaderboard](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/leaderboard): Grigoriy Gusarov, Score = 0.95129
 
 **Порядок выполенения проекта:**
 
@@ -15,3 +15,15 @@
 **Неделя 2**<br>
 Параметризация предобработчка данных. Сериализация данных модели.<br>
 Первичный статистический анализ данных.
+
+**Неделя 3**<br>
+Визуальный анализ данных и построение признаков.
+
+**Неделя 4**<br>
+Сравнение алгоритмов классификации.
+
+**Неделя 5**<br>
+Начало соревнования на Kaggle. SGDClassifier.
+
+**Неделя 6**<br>
+Библиотека Vowpal Wabbit
